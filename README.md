@@ -3,6 +3,8 @@ jfontsize
 
 jFontSize is an easy-to-use jQuery Plugin that adds A+ and A- buttons to your website, which alter the font size on sites with lager texts to improve user experience.
 
+Version 2 has been refactored. It now saves the current zoom value and applies it on each page reload and each visit.
+
 * Original Author: Frederico Soares Vanelli
 * fredsvanelli@gmail.com
 * http://twitter.com/fredvanelli
@@ -13,6 +15,16 @@ jFontSize is an easy-to-use jQuery Plugin that adds A+ and A- buttons to your we
 * Dual licensed under the MIT and GPL licenses.
 * http://jfontsize.com/license
 * Requires: jQuery v1.2.6 or later
+
+* Version 2.0 by Vincent Chabredier / Ouvrages
+* http://www.ouvrages-web.fr
+
+* Copyright (c) 2013
+* Version: 2.0
+* Requires: 
+** jQuery v1.2.6 or later
+** jStorage (http://www.jstorage.info/)
+
   
 How to use it
 -------------
@@ -20,7 +32,8 @@ How to use it
 1. Include jQuery Library and jFontSize.js
 ```html
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.js"></script>
-<script type="text/javascript" language="javascript" src="jquery.jfontsize-1.0.js"></script>
+<script type="text/javascript" language="javascript" src="store.js"></script>
+<script type="text/javascript" language="javascript" src="jquery.jfontsize-2.0.js"></script>
 ```
 
 2. Add A+ and A- Buttons on your page
