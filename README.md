@@ -32,7 +32,7 @@ How to use it
 1. Include jQuery Library and jFontSize.js
 ```html
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.js"></script>
-<script type="text/javascript" language="javascript" src="store.js"></script>
+<script type="text/javascript" language="javascript" src="jstorage.js"></script>
 <script type="text/javascript" language="javascript" src="jquery.jfontsize-2.0.js"></script>
 ```
 
