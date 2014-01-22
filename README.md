@@ -3,7 +3,7 @@ jfontsize
 
 jFontSize is an easy-to-use jQuery Plugin that adds A+ and A- buttons to your website, which alter the font size on sites with lager texts to improve user experience.
 
-Version 2 has been refactored. It now saves the current zoom value and applies it on each page reload and each visit.
+**Version 2 has been refactored. It now saves the current zoom value and applies it on each page reload and each visit.**
 
 * Original Author: Frederico Soares Vanelli
 * fredsvanelli@gmail.com
